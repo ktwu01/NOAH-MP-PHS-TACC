@@ -1,0 +1,12 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore compiled files
+*.o
+*.so
+
+
+
