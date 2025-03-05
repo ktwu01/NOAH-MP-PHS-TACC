@@ -2,5 +2,6 @@ hrldas_phs/
 obs/
 US-Syv/
 US-Syv_01/
-
+.ipynb_checkpoints/
+__pycache__/
 
