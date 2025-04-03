@@ -55,7 +55,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 dill @ file:///home/conda/feedstock_root/build_artifacts/dill_1604312823872/work
 distributed @ file:///home/conda/feedstock_root/build_artifacts/distributed_1604508001840/work
-Django==2.2.7
+Django==4.2.20
 django-plotly-dash==1.0.2
 dpd-components==0.1.0
 en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.2.5/en_core_web_lg-2.2.5.tar.gz
