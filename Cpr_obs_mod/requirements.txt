@@ -157,7 +157,7 @@ partd==1.1.0
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-Pillow==6.2.1
+Pillow==10.3.0
 plac==1.1.3
 plotly==4.5.4
 pluggy==0.13.1
