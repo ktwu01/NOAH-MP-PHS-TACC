@@ -1,6 +1,6 @@
 absl-py==0.11.0
 agavepy==0.9.3
-aiohttp==3.6.2
+aiohttp==3.11.0b0
 alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1599849174714/work
 algorithmia==1.2.1
 algorithmia-api-client==1.1.0
