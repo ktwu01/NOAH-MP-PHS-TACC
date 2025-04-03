@@ -235,7 +235,7 @@ tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1601589267
 toml==0.10.2
 toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1600973991856/work
 torch==1.7.0
-tornado==6.0.3
+tornado==6.4.2
 tqdm==4.39.0
 traitlets==4.3.3
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
