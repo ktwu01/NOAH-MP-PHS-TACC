@@ -197,7 +197,7 @@ wasabi==0.6.0
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.16.0
+Werkzeug==3.0.6
 wrapt==1.12.1
 xarray==2023.1.0
 xgboost==0.90

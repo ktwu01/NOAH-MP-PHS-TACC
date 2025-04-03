@@ -246,7 +246,7 @@ wasabi==0.6.0
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.16.0
+Werkzeug==3.0.6
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1603129366146/work
 wrapt==1.12.1
 xarray==2023.1.0
